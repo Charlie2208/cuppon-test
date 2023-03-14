@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #ffff;
+}
+
+
+/*nav bar*/
+
+.navbar {
+    background-color: #28A745;
+    color: #ffff;
+}
+
+/* .navbar-brand{
+    width: 150px;
+
+
+
+
+/* Section mis trabajos */
+
+.mis-trabajos{
+    background-color: #FFFFFF;
+    height: auto;
+}
+
+.card {
+    background-color: #F8F9FA;
+}
+
+.card-text{
+    color: #707070;
+}
+
+.price-1{
+    color: #707070;
+}
+
+.price-2{
+    color: #28A745;
+}
+
+.form-section{
+    background-color: #28A745;
+}
+
+.form-section button{
+    background-color: #F8F9FA;
+}
+
+/*footer*/  
+
+footer {
+    background-color: #FFFFFF;
+    color: #707070;
+}
